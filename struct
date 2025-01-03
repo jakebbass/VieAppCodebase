@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── SplashScreen.js
+│   ├── SignUpSignInScreen.js
+│   ├── HomeScreen.js
+│   ├── AccountScreen.js
+│   ├── PaymentsRecordsScreen.js
+│   ├── ComingSoonScreen.js
+│   └── NavBar.js
+├── assets/
+│   └── Vie_logo_white.png
+├── App.js

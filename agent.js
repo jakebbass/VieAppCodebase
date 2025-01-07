@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // Configure OpenAI API
 const configuration = new Configuration({
-  apiKey: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  // Replace with your API key
+  apiKey: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  // Replace with your API key
 });
 const openai = new OpenAIApi(configuration);
 

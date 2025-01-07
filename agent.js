@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // Configure OpenAI API
 const configuration = new Configuration({
-  apiKey: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  // Replace with your API key
+  apiKey: process.env.OPENAI_API_KEY
 });
 const openai = new OpenAIApi(configuration);
 

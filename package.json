@@ -13,7 +13,7 @@
     "@react-navigation/bottom-tabs": "^6.0.9",
     "@react-navigation/native": "^6.0.6",
     "react": "18.2.0",
-    "react-native": "0.71.0",
+    "react-native": "0.76.5",
     "react-native-chart-kit": "^6.12.0",
     "react-native-gesture-handler": "^2.5.0",
     "react-native-reanimated": "^2.9.1",

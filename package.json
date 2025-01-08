@@ -1,6 +1,5 @@
 {
-  "name": "VieApp",
-  "version": "1.0.0",
+  "name": "vie",
   "description": "A React Native app for financial projections and account management.",
   "main": "App.js",
   "scripts": {
@@ -10,7 +9,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native-community/cli": "latest" 
     "@react-navigation/bottom-tabs": "^6.0.9",
     "@react-native-community/cli": "latest",
     "@react-navigation/native": "^6.0.6",

@@ -12,7 +12,7 @@ const SplashScreen = ({ navigation }) => {
     }).start(() => {
       navigation.replace('SignUpSignIn');
     });
-  }, []);
+  }, [fadeAnim, navigation]);
 
   return (
     <View style={styles.container}>
